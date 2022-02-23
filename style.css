@@ -1,0 +1,281 @@
+.navup-right {
+    float: right;
+    padding: 40px;
+    margin-left: 5px;
+}
+
+#nav {
+    padding: 0px 20px;
+    color: #ff5722;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+
+.body{
+    margin: 0%;
+}
+/* body with header Tag */
+h1{
+    font-family: 'Bubblegum Sans', cursive;
+}
+
+h1{
+    font-size: 50px;
+}
+
+/*paragraph front*/
+.paragraph{
+    font-family: 'Do Hyeon', sans-serif;
+}
+
+h2{
+    font: size 40px;
+}
+
+.Full-stack{
+    font-family: 'Bubblegum Sans', cursive;
+}
+
+
+
+p{
+    color: dimgray;
+}
+
+.user-name{
+    color: #ff5722;
+}
+
+.welcome{
+    color: #6a1b9a;
+}
+
+.website{
+    color: #03a9f4;
+}
+
+/*Div Added image Discription*/
+
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left:5%;
+    padding-left: 2%;
+
+}
+
+
+.half-width img{
+    width:80%;
+}
+
+
+/* add bacground image */
+
+.top-banner{
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+    padding-bottom:150px ;
+}
+
+/* added button */
+
+.link-button{
+    text-decoration: none;
+    background-image:linear-gradient(45deg,#ff5722 ,tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+
+.github{
+text-decoration: none;
+background-image:linear-gradient(45deg,#ff5722 ,tomato);
+padding: 10px 20px;
+border-radius: 5px;
+color: white;
+font-weight: 700;
+}
+
+/*second section second div part */
+.vision{
+    font-family: 'Bubblegum Sans', cursive;
+    color: #ff5722;
+}
+
+.build{
+    font-family: 'Bubblegum Sans', cursive;
+    color: #03a9f4;
+}
+
+.paragraph-two{
+    font-family: 'Do Hyeon', sans-serif;
+    padding-right: 25%;
+}
+
+
+
+*{
+    margin: 2;
+    padding: 2;
+    box-sizing: border-box;
+  }
+  
+
+
+  /* added assignment*/
+  
+  .Assignment{
+    margin-top: 10%;
+  }
+  
+  .Assignment h1{
+    font-family: 'Bubblegum Sans', cursive;
+    font-size: 52px;
+    color: #ff5722;
+    margin-bottom: 60px;
+    text-align: center;
+  }
+  
+  .team{
+    display: flex;
+    justify-content: center;
+    width: auto;
+    text-align: center;
+    flex-wrap: wrap;
+  }
+  
+.team .team_member{
+    margin: 2px;
+    margin-bottom: 50px;
+    width: 400px;
+    padding: 20px;
+    line-height: 20px;
+    color: #8e8b8b;  
+    position: relative;
+  }
+
+
+  .pera{
+      font-size: 10px;
+      
+  }
+  
+
+  .team .team_member h3{
+    color: #81c644;
+    font-size: 16px;
+    margin-top: 15px;
+    font-size: 35px;
+  }
+  
+  .team .team_member p.role{
+    color: #ccc;
+    margin: 10px 0;
+    font-size: 10px;
+    
+  }
+ 
+  .team .team_member .team_img{
+    top: -4475px;
+    left: 75%;
+   
+    width: 100px;
+    height: 120px;
+    border-radius: 5555533850%;
+    
+  }
+  
+  .team .team_member .team_img img{
+    width: 500px;
+    height: 350px;
+    padding: 70px;
+  }
+  
+ 
+ .work-inquiry{
+     position: absolute;
+     left: 250px;
+     padding-left: 250px;
+
+     font-family: 'Bubblegum Sans', cursive;
+
+
+ }
+ 
+
+ .text-box {
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+    color: white;
+    padding-left: 250px;
+    padding-right: 20px;
+  }
+
+ .pic{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:40%;
+    
+ }
+
+ 
+ 
+footer h1{
+    text-align: center;
+    font-size: 50px;
+}
+
+
+
+/*icon bar */
+
+.icon-bar {
+    
+    text-align: center;
+    font-size: 15px;
+    
+  }
+  
+  .icon-bar a {
+    text-align: center;
+    padding: 8px;
+    transition: all 0.3s ease;
+    color: white;
+    font-size: 35px;
+  }
+  
+  
+  
+  .fb {
+    background: #3B5998;
+    color: white;
+  }
+  
+  .twit {
+    background: #55ACEE;
+    color: white;
+  }
+  
+  .google {
+    background: #dd4b39;
+    color: white;
+  }
+  
+  .linkedin {
+    background: #007bb5;
+    color: white;
+  }
+  
+  .youtube {
+    background: #bb0000;
+    color: white;
+  }
+  
